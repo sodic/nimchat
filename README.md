@@ -1,2 +1,2 @@
 # nimchat
-A command line chat application in Nim, lerning from the book _Nim in action_.
+A command line chat application in Nim, made while learning the language from the book _Nim in action_.
